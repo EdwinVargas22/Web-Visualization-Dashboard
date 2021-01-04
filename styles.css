@@ -1,0 +1,34 @@
+body {
+    background: lightsteelblue;
+}
+
+nav {
+    background: darkgrey;
+}
+
+.navbar-brand  {
+    font-size: 40px;
+    color: black;
+    position: right;
+}
+
+.nav-link {
+    font-size: 20px;
+    color: black;
+}
+
+img {
+   position: relative;
+   width: 100%;
+   margin-bottom: 20px;
+}
+
+.mt-0.mb-1 {
+    text-align: right;
+
+}
+
+.ml-3 {
+    float: right;
+    margin: 0px 0px 15px 15px;
+}
